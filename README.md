@@ -9,11 +9,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rt2306&label=Profile%20views&color=0e75b6&style=flat" alt="rt2306" /> </p>
 
-- 🔭 I’m currently working exchange https://demo.otx.trade/
+
 
 - 🌱 I’m currently learning *react.js , node.js , laravel, javascript,mongodb,mysql,html,css*
 
-- 🔭 I’m currently working exchange https://demo.charlieexchange.io/
+
 
 - 🔭 I’m currently working node api's *ebull's app api's*
 
